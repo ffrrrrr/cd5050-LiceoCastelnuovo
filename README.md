@@ -1,6 +1,6 @@
-# PCTO cd5050 - Liceo Morgagni
+# PCTO cd5050 - Liceo Laura Bassi
 
-Questa repository contiene il materiale utilizzato durante il PCTO al Liceo Morgagni
+Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Laura Bassi
 
 ## Canali di comunicazione
 - Discord: https://discord.gg/fJs4BGdW
