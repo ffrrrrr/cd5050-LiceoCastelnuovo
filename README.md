@@ -2,7 +2,9 @@
 
 Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Laura Bassi
 
-Ciao, qui trovi i link ai **dataset** che ti proponiamo per sviluppare il tuo progetto. Clicca, leggi le informazioni che vengono fornite sul sito che ospita quei dati, cerca di capire se sono di tuo interesse, come scaricarli o agganciarli e parti con l'esplorazione. In caso di dubbi possiamo valutare insieme l'approccio migliore. Buon lavoro.
+# Idee per il progetto di DataScience da sviluppare durante il PCTO
+
+Qui trovate i link ai **dataset** che vi proponiamo per sviluppare il vostro progetto. Cliccate, leggete le informazioni che vengono fornite sul sito che ospita quei dati, cercate di capire se sono di vostro interesse, come scaricarli o agganciarli e partite con l'esplorazione. 
 
 
 ## 👦🏾 👧 Giovani.stat
