@@ -4,7 +4,7 @@ Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Laur
 
 ## Idee per il progetto di DataScience da sviluppare durante il PCTO
 
-Qui trovate i link ai **dataset** che vi proponiamo per sviluppare il vostro progetto. Cliccate, leggete le informazioni che vengono fornite sul sito che ospita quei dati, cercate di capire se sono di vostro interesse, come scaricarli o agganciarli e partite con l'esplorazione. 
+Qui trovate i link ai **dataset** che vi proponiamo per sviluppare il vostro progetto. Cliccate, leggete le informazioni che vengono fornite sul sito che ospita quei dati, cercate di capire se sono di vostro interesse: che domande vi suscita il tema del dataset ? a quali potreste dare risposta analizzando i dati ? Provate a scaricarli o agganciarli seguendo le istruzioni nel notebook nella cartella Colab e partite con l'esplorazione!
 
 
 ## 👦🏾 👧 Giovani.stat
