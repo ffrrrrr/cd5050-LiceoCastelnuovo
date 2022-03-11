@@ -15,3 +15,6 @@
 
 ### Esplorare_dati
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/aprodi/cd5050-LauraBassi/blob/main/Colab/Esplorare_dati.ipynb)
+
+### Dati_statistici_su_mappe
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/aprodi/cd5050-LauraBassi/blob/main/Colab/Dati_statistici_su_mappe.ipynb)
