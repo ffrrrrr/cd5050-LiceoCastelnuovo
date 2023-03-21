@@ -1,6 +1,6 @@
 # PCTO cd5050 - Liceo Castelnuovo
 
-Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Castelnuovo di Firenze
+Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Castelnuovo di Firenze, Marzo 2023.
 
 ## Idee per il progetto di DataScience da sviluppare durante il PCTO
 
