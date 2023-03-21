@@ -29,10 +29,7 @@ L'indagine sui bilanci delle famiglie italiane
 > [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 
-## 🇺🇦 War in Ukraina
-
-Una serie di dataset sul contesto socio-economico
-> [Dataset](https://ourworldindata.org/ukraine-war)
+## 🇺🇦 War in Ukraine
 
 I dati di UNHCR sui rifugiati
 > [Dataset](https://data2.unhcr.org/en/situations/ukraine)
