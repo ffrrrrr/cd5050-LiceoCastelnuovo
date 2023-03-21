@@ -24,10 +24,10 @@ I dati sulla tua città messi a disposizione dal Comune
 
 
 
-[comment]: <> ## 🦠 Dati COVID-19 Italia
+[comment]: <> (## 🦠 Dati COVID-19 Italia)
 
-[comment]: <> I dati del Governo sulla diffusione del virus in Italia, regioni e province
-[comment]: <> > [Dataset](https://github.com/pcm-dpc/COVID-19)
+[comment]: <> (I dati del Governo sulla diffusione del virus in Italia, regioni e province)
+[comment]: <> (> [Dataset](https://github.com/pcm-dpc/COVID-19))
 
 
 
