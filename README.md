@@ -1,6 +1,6 @@
-# PCTO cd5050 - Liceo Laura Bassi
+# PCTO cd5050 - Liceo Castelnuovo
 
-Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Laura Bassi
+Questo repository contiene il materiale utilizzato durante il PCTO al Liceo Castelnuovo di Firenze
 
 ## Idee per il progetto di DataScience da sviluppare durante il PCTO
 
