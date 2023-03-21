@@ -24,22 +24,22 @@ I dati sulla tua città messi a disposizione dal Comune
 
 
 
-## 🦠 Dati COVID-19 Italia
+[comment]: <> ## 🦠 Dati COVID-19 Italia
 
-I dati del Governo sulla diffusione del virus in Italia, regioni e province
-> [Dataset](https://github.com/pcm-dpc/COVID-19)
-
-
-
-## 💉 Covid-19 Opendata Vaccini
-
-I dati del Governo sull'andamento della campagna vaccinale
-> [Dataset](https://github.com/italia/covid19-opendata-vaccini)
+[comment]: <> I dati del Governo sulla diffusione del virus in Italia, regioni e province
+[comment]: <> > [Dataset](https://github.com/pcm-dpc/COVID-19)
 
 
-## 🚸 #IoTornoaScuola
-I dati del Ministero dell'Istruzione sul monitoraggio Covid-19 in ambito scolastico
-> [Dataset](https://www.istruzione.it/iotornoascuola/monitoraggi.html)
+
+[comment]: <> ## 💉 Covid-19 Opendata Vaccini
+
+[comment]: <> I dati del Governo sull'andamento della campagna vaccinale
+[comment]: <> > [Dataset](https://github.com/italia/covid19-opendata-vaccini)
+
+
+[comment]: <> ## 🚸 #IoTornoaScuola
+[comment]: <> I dati del Ministero dell'Istruzione sul monitoraggio Covid-19 in ambito scolastico
+[comment]: <> > [Dataset](https://www.istruzione.it/iotornoascuola/monitoraggi.html)
 
 
 ## ![Banca d'Italia](/assets/images/logo_bankitalia.jpg) Banca d'Italia
