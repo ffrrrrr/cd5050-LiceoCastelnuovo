@@ -12,3 +12,8 @@ Per Pandas, per le funzioni più usate potete dare un'occhiata [qui](https://med
 
 Riassumo la "catena" di strumenti informatici che stiamo utilizzando: 1) Python come linguaggio di programmazione insieme alle sue librerie specializzate "Pandas" per il trattamento dei dati, "Numpy" per la matematica e la statistica, e quelle per la visualizzazione dati che producono i grafici come "Matplotlib" (ce ne sono tante come "Seaborn", "Plotly" e altre); 2) l'interfaccia interattiva di tipo notebook chiamata "Jupyter" con cui possiamo mescolare agilmente "celle" di istruzioni di codice che possono essere eseguite e "celle" di testo e immagini a commento, e abbiamo visto ci permette di fare dei "ragionamenti interattivi" senza perderci in troppi dettagli tecnici di programmazione; 3) il sistema Colab che ci permette di eseguire il tutto in maniera snella per mezzo dei servizi Cloud di Google senza dover istallare nulla sul nostro computer (cosa che si rivela spesso un passaggio tecnico molto noioso).
 
+### Pinguini Template
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/slvcsl/cd5050-Morgagni/blob/main/Progetto/pinguini_template.ipynb)
+
+### Football
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/slvcsl/cd5050-Morgagni/blob/main/Colab/Morgagni_M2.ipynb)
