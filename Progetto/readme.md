@@ -15,5 +15,8 @@ Riassumo la "catena" di strumenti informatici che stiamo utilizzando: 1) Python 
 ### Pinguini Template
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/aprodi/cd5050-LiceoCastelnuovo/blob/main/Progetto/pinguini_template.ipynb)
 
-### Football
+### Football 1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/aprodi/cd5050-LiceoCastelnuovo/blob/main/Progetto/plot_UsingStatsbomb.ipynb)
+
+### Football 2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/aprodi/cd5050-LiceoCastelnuovo/blob/main/Progetto/football_visual.ipynb)
